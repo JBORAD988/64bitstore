@@ -1,0 +1,102 @@
+nav {
+    background-color: #f8f8f8;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    /* overflow: hidden; */
+    overflow: hidden;
+    background-color: #fbf9f9;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    position: fixed;
+    justify-content: space-between;
+    padding: 0 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo img {
+    height: 60px;
+    margin: auto;
+    /* font-size: 24px; */
+    /* font-weight: bold; */
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.sell-btn a {
+    background-color: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.sell-btn a:hover {
+    background-color: #0d47a1;
+}
+
+.search-bar input[type="text"] {
+    width: 200px;
+    height: 30px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.search-bar button[type="submit"] {
+    height: 30px;
+    background-color: #2196f3;
+    color: white;
+    /* white-space: nowrap; */
+    border: none;
+    border-radius: 5px;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.search-bar button[type="submit"]:hover {
+    background-color: #0d47a1;
+    color: #fff;
+}
+
+.login-btn a {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.login-btn a:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.help a {
+    margin-right: 20px;
+}
+
+.cart a {
+    display: flex;
+    align-items: center;
+    background-color: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.cart i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.cart a:hover {
+    background-color: #0d47a1;
+}

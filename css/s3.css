@@ -1,0 +1,22 @@
+html,body{
+    margin: 20px;
+}
+h1{
+    color: rgb(60, 60, 241);
+    margin-bottom: 100px;
+}
+.s1,.s2,.s3,h4{
+    margin: 20px;
+}
+#t{
+    width: 300px;
+}
+.l{
+    margin-bottom: 10px;
+}
+.d3{
+    display: flex;
+}
+textarea{
+    margin-right: 80px;
+}

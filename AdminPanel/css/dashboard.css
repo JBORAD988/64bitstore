@@ -1,0 +1,41 @@
+a.badge.bg-primary.text-white.ml-auto.p-2.mr-5 {
+    background-color: gray;
+}
+
+nav {
+    background-color: #f8f8f8;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    padding: 0 20px;
+    z-index: 9999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #000000;
+}
+
+
+.logo img {
+    height: 60px;
+    margin: auto;
+    /* font-size: 24px; */
+    /* font-weight: bold; */
+}
+
+table.table td .add{
+    display: none;
+}
+
+input.form-control.form-control-sm {
+    width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #026ad5;
+}

@@ -1,0 +1,108 @@
+/*body {*/
+/*    background-color: #456;*/
+/*    font-family: Arial, Helvetica, sans-serif;*/
+/*}*/
+/*.box{*/
+/*    width: 400px;*/
+/*    margin: 16px auto;*/
+/*    font-size: 16px;*/
+/*}*/
+/*.header,.box p{*/
+/*    margin-top: 0;*/
+/*    margin-bottom: 0;*/
+/*}*/
+
+/*.triangle{*/
+/*    width: 0;*/
+/*    margin-right: auto;*/
+/*    margin-left: auto;*/
+/*    border: 12px solid transparent;*/
+/*    border-bottom-color: #28d;*/
+
+/*}*/
+
+/*.header{*/
+/*    background: #28d;*/
+/*    padding: 20px;*/
+/*    font-size: 1.4em;*/
+/*    font-weight: normal;*/
+/*    text-align: center;*/
+/*    text-transform: uppercase;*/
+/*    color: #fff;*/
+/*}*/
+
+/*.container{*/
+/*    background: #ebebeb;*/
+
+/*}*/
+
+
+/*new ui with gpt*/
+
+body {
+    background-color: #0171d3;
+}
+
+.box {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+.triangle {
+    position: absolute;
+    top: -80px;
+    left: 50%;
+    width: 0;
+    height: 0;
+    /*border-top: 50px solid transparent;*/
+    /*border-right: 50px solid transparent;*/
+    /*border-bottom: 50px solid #fff;*/
+    border-top: 50px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 30px solid #fff;
+    border-left: 20px solid transparent;
+    transform: translateX(-50%);
+}
+
+.card-header {
+    background-color: #0171d3;
+    color: #fff;
+    font-family: Arial,serif;
+    text-align: center;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.container {
+    padding: 30px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+input[type="submit"] {
+    background-color: #0171d3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #265dc9;
+}

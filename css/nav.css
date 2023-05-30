@@ -1,0 +1,180 @@
+* {
+    font-family: Arial, serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navigation styles */
+/* Navigation bar styles */
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 100%;
+    height: 62px;
+}
+
+/*.logo {*/
+/*    !*background-image: url('https://i.ibb.co/SNYBkVb/64-Bit-Store.png');*!*/
+/*    background-image: url("64BitStore.png");*/
+/*    width: 100px;*/
+/*    height: 60px;*/
+/*    background-size: contain;*/
+/*    background-repeat: no-repeat;*/
+/*}*/
+
+
+.menu {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu li:last-child {
+    margin-right: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.sell-btn a {
+    display: block;
+    padding: 10px;
+    background-color: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.sell-btn a:hover {
+    background-color: #0d6efd;
+}
+
+.search-bar {
+    display: flex;
+}
+
+.search-bar input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    background-color: whitesmoke;
+
+}
+
+.search-bar button[type="submit"] {
+    padding: 10px;
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+.search-bar button[type="submit"]:hover {
+    background-color: #0d47a1;
+    color: #fff;
+}
+
+
+/*.help a,*/
+/*nav .cart a {*/
+/*    color: #000000;*/
+/*    text-decoration: none;*/
+/*    font-size: 16px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.cart i {*/
+/*    margin-right: 5px;*/
+/*}*/
+
+
+.help a {
+    margin-right: 20px;
+}
+
+.cart a {
+    display: flex;
+    align-items: center;
+    background-color: #2196f3;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.cart i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+/* Media queries for responsive design */
+@media only screen and (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .logo {
+        margin-bottom: 20px;
+    }
+
+    .menu {
+        margin-bottom: 20px;
+        flex-direction: column;
+    }
+
+    .menu li {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .sell-btn a {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 90%;
+    }
+
+    nav {
+        flex-wrap: wrap;
+    }
+
+    nav img {
+        margin-right: 0;
+        margin-bottom: 1rem;
+    }
+}

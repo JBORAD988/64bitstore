@@ -1,0 +1,225 @@
+
+/* General styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-top: 50px;
+  }
+  
+  /*body{*/
+  /*  font-family: Arial, sans-serif;*/
+  /*  font-size: 16px;*/
+  /*  line-height: 1.5;*/
+  /*    margin-top: 70px;*/
+
+  /*}*/
+  
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  ul {
+    list-style: none;
+  }
+/* Navigation styles */
+/*nav {*/
+/*    background-color: #f8f8f8;*/
+/*    height: 60px;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    !* overflow: hidden; *!*/
+/*    overflow: hidden;*/
+/*    background-color: #fbf9f9;*/
+/*    position: fixed; !* Set the navbar to fixed position *!*/
+/*    top: 0; !* Position the navbar at the top of the page *!*/
+/*    width: 100%; !* Full width *!*/
+/*    position: fixed;*/
+/*    justify-content: space-between;*/
+/*    padding: 0 20px;*/
+/*    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);*/
+/*  }*/
+/*  */
+/*  .logo img {*/
+/*    height: 60px;*/
+/*    margin: auto;*/
+/*    !* font-size: 24px; *!*/
+/*    !* font-weight: bold; *!*/
+/*  }*/
+/*  */
+/*  .menu li {*/
+/*    display: inline-block;*/
+/*    margin-right: 20px;*/
+/*  }*/
+/*  */
+/*  .sell-btn a {*/
+/*    background-color: #2196f3;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*    padding: 10px 20px;*/
+/*    transition: all 0.3s ease-in-out;*/
+/*  }*/
+/*  */
+/*  .sell-btn a:hover {*/
+/*    background-color: #0d47a1;*/
+/*  }*/
+/*  */
+/*  .search-bar input[type="text"] {*/
+/*    width: 200px;*/
+/*    height: 30px;*/
+/*    padding: 5px 10px;*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*  }*/
+/*  */
+/*  .search-bar button[type="submit"] {*/
+/*    height: 30px;*/
+/*    background-color: #2196f3;*/
+/*    color: white;*/
+/*    !* white-space: nowrap; *!*/
+/*    border: none;*/
+/*    border-radius: 5px;*/
+/*    padding: 0 10px;*/
+/*    cursor: pointer;*/
+/*    transition: all 0.3s ease-in-out;*/
+/*  }*/
+/*  */
+/*  .search-bar button[type="submit"]:hover {*/
+/*    background-color: #0d47a1;*/
+/*    color: #fff;*/
+/*  }*/
+/*  */
+/*  .login-btn a {*/
+/*    background-color: #fff;*/
+/*    color: #333;*/
+/*    border: 1px solid #333;*/
+/*    border-radius: 5px;*/
+/*    padding: 10px 20px;*/
+/*    transition: all 0.3s ease-in-out;*/
+/*  }*/
+/*  */
+/*  .login-btn a:hover {*/
+/*    background-color: #333;*/
+/*    color: #fff;*/
+/*  }*/
+/*  */
+/*  .help a {*/
+/*    margin-right: 20px;*/
+/*  }*/
+/*  */
+/*  .cart a {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    background-color: #2196f3;*/
+/*    color: #fff;*/
+/*    border-radius: 5px;*/
+/*    padding: 10px 20px;*/
+/*    transition: all 0.3s ease-in-out;*/
+/*  }*/
+/*  */
+/*  .cart i {*/
+/*    font-size: 24px;*/
+/*    margin-right: 10px;*/
+/*  }*/
+/*  */
+/*  .cart a:hover {*/
+/*    background-color: #0d47a1;*/
+/*  }*/
+  
+
+h1{
+    color:rgb(60, 60, 224);
+    padding-left: 90px;
+    font-size: 40px;
+    margin-top: 83px;
+
+}
+
+.s1,.s2,.s3,.s5{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.i1{
+    width: 250px;
+    background-color: rgb(247, 242, 242);
+}
+.s4{
+    margin-left: 65px;
+    margin-bottom: 30px;
+}
+textarea{
+    background-color: rgb(247, 242, 242);
+
+}
+.d1{
+    border-color: rgb(247, 242, 242);
+    border-style: solid;
+    border-width: 10px;
+    width: 865px;
+}
+p{
+    padding-left: 10px;
+}
+.d2{
+    padding-left: 50px;
+}
+.d21{
+    border-color: black;
+    border-style: dotted;
+    width: 240px;
+    height: 240px;
+    text-align: center;
+    background: rgb(247, 242, 242);
+}
+.d22{
+    text-align: center;
+    padding-top: 40px;
+}
+footer {
+  background-color: rgb(201 201 201);
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 50px;
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.banner-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 200px;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.banner img {
+  max-width: 100%;
+  height: auto;
+}
+
+.banner a {
+  margin-top: 10px;
+  padding: 8px 20px;
+  background-color: #2196f3;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.banner a:hover {
+  background-color: #0d47a1;
+}
