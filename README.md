@@ -51,6 +51,11 @@ Explore our diverse range of computer hardware products, including:
 
 - **Exceptional Customer Service**: Our friendly and knowledgeable customer support team is ready to assist you with any inquiries or concerns. 🚚💼
 
+## Demo Photos
+
+![admindashbord](https://github.com/JBORAD988/64bitstore/assets/87151841/0c056e71-92cc-4391-9dd8-17c0a79f8b23)
+
+
 ## How to Use the Website 🖥️
 
 1. **Browsing Products**: Navigate through our categories or use the search bar to find specific computer hardware components. Click on a product to view details, including price, description, and specifications.
