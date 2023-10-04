@@ -60,6 +60,7 @@ Explore our diverse range of computer hardware products, including:
 ![home page](https://github.com/JBORAD988/64bitstore/assets/87151841/b7e01fdd-2450-4599-bd0e-5a72ded39a93)
 ![product page](https://github.com/JBORAD988/64bitstore/assets/87151841/1ac15695-11f5-49ef-9f49-a6df38e8381f)
 ![product section](https://github.com/JBORAD988/64bitstore/assets/87151841/2c8291c0-7cf5-4135-a25f-c4c2daa3e988)
+![product data page](https://github.com/JBORAD988/64bitstore/assets/87151841/e71cb1b6-0e28-4939-a861-0e99d0b1da8f)
 ![sell product](https://github.com/JBORAD988/64bitstore/assets/87151841/8213e267-dfcb-4d67-b78f-f76c06e636d7)
 ![cart](https://github.com/JBORAD988/64bitstore/assets/87151841/2c0b65a7-8df4-4580-a174-fd90c936ce5a)
 ![cart checkout](https://github.com/JBORAD988/64bitstore/assets/87151841/56a44014-a3ef-49c7-8e6e-1c75035f1eeb)
