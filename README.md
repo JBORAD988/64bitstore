@@ -1,19 +1,19 @@
 
-# 64Bites - Online Computer Hardware Store 🖥️
+# 64BitStore - Online Computer Hardware Store 🖥️
 
-Welcome to 64Bites, your ultimate destination for all your computer hardware needs. Whether you're building a gaming rig, upgrading your workstation, or just looking for reliable components, we've got you covered. Our extensive selection of high-quality computer hardware, competitive prices, and user-friendly shopping experience make us the ideal choice for all your computing needs. 💻🔧
+Welcome to 64BitStore, your ultimate destination for all your computer hardware needs. Whether you're building a gaming rig, upgrading your workstation, or just looking for reliable components, we've got you covered. Our extensive selection of high-quality computer hardware, competitive prices, and user-friendly shopping experience make us the ideal choice for all your computing needs. 💻🔧
 
 ## Table of Contents 📚
 
 - [About Us](#about-us)
 - [Products](#products)
-- [Why Choose 64Bites](#why-choose-64bites)
+- [Why Choose 64BitStore](#why-choose-64BitStore)
 - [How to Use the Website](#how-to-use-the-website)
 - [Contact Us](#contact-us)
 
 ## About Us ℹ️
 
-At 64Bites, we are passionate about providing the best computer hardware solutions to our customers. Our team of experts curates a wide range of computer hardware products, from CPUs and GPUs to motherboards and storage devices, ensuring that you have access to the latest and most reliable components. We are dedicated to delivering top-notch quality and customer satisfaction. 👨‍💻🔩
+At 64BitStore, we are passionate about providing the best computer hardware solutions to our customers. Our team of experts curates a wide range of computer hardware products, from CPUs and GPUs to motherboards and storage devices, ensuring that you have access to the latest and most reliable components. We are dedicated to delivering top-notch quality and customer satisfaction. 👨‍💻🔩
 
 ## Products 🛒
 
@@ -37,7 +37,7 @@ Explore our diverse range of computer hardware products, including:
 
 - **Accessories**: Explore a variety of computer accessories, including cables, adapters, and more. 🧰🔨
 
-## Why Choose 64Bites 🌟
+## Why Choose 64BitStore 🌟
 
 - **Wide Selection**: We offer an extensive range of computer hardware products to cater to various needs, from gaming to professional workstations.
 
@@ -87,8 +87,8 @@ Explore our diverse range of computer hardware products, including:
 
 We value your feedback and are here to assist you. If you have any questions, suggestions, or issues, please don't hesitate to reach out to us:
 
-- **Customer Support**: [support@64bites.com](mailto:support@64bites.com)
+- **Customer Support**: [support@64BitStore.com](mailto:support@64BitStore.com)
 - **Phone**: +91 76006 80988
 - **Address**: SP Boys Hostel ,Gulbai Tekra Rd, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 📮📞🏢
 
-Thank you for choosing 64Bites as your trusted computer hardware store. We look forward to serving you and helping you build the computer of your dreams. Happy shopping! 🛒💻🛠️👍
+Thank you for choosing 64BitStore as your trusted computer hardware store. We look forward to serving you and helping you build the computer of your dreams. Happy shopping! 🛒💻🛠️👍
