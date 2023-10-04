@@ -71,6 +71,6 @@ We value your feedback and are here to assist you. If you have any questions, su
 
 - **Customer Support**: [support@64bites.com](mailto:support@64bites.com)
 - **Phone**: +91 76006 80988
-- **Address**: 123 Hardware Street, Techville, State 12345, USA 📮📞🏢
+- **Address**: SP Boys Hostel ,Gulbai Tekra Rd, Panchavati Society, Gulbai Tekra, Ahmedabad, Gujarat 📮📞🏢
 
 Thank you for choosing 64Bites as your trusted computer hardware store. We look forward to serving you and helping you build the computer of your dreams. Happy shopping! 🛒💻🛠️👍
